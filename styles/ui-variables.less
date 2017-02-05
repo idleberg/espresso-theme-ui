@@ -1,10 +1,12 @@
+@import "ui-custom-variables";
+
 // Text Colors
-@text-color:           #F0E68C;
+@text-color:           @yellow-white;
 @text-color-subtle:    hsl(0,0%,50%);
 @text-color-highlight: hsl(0,0%,94%);
 @text-color-selected:  hsl(0,0%,100%);
 
-@text-color-info:    hsl(219,  79%, 66%);
+@text-color-info:    @very-light-yellow;
 @text-color-success: hsl(140,  44%, 62%);
 @text-color-warning: hsl( 36,  60%, 72%);
 @text-color-error:   hsl(  9, 100%, 64%);
@@ -20,7 +22,7 @@
 @app-background-color:       darken(@base-background-color, 5%);
 
 // Base colors
-@base-background-color: #180D01;
+@base-background-color: @espresso;
 @base-border-color:     darken(@base-background-color, 8%);
 
 // Component colors
@@ -79,3 +81,4 @@
 // Misc
 @component-border-radius: 2px;
 @font-family: '.SFNSText-Regular', 'SF UI Text', 'Lucida Grande', 'Segoe UI', Ubuntu, Cantarell, sans-serif;
+
