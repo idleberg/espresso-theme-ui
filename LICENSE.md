@@ -1,8 +1,6 @@
-Below is the license that comes with the Atom UI template.
-
 The MIT License (MIT)
 
-Copyright (c) 2015 Atom Community
+Copyright (c) 2017 Matt Stewart
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
