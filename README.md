@@ -5,4 +5,6 @@
 
 # Espresso Theme
 
-This is a UI Atom theme that I am in the very beginnings of creating. The vast majority of text editor themes seem to fall into the category of either dark gray or white, so I figured I should make a theme that looks like coffee.
+![screenshot](espress-theme-ui/screenshot.png)
+
+I am not quite finished with this theme yet, and there is still a lot of work to do, but this is what it looks like at the moment and I should have the first version up soon.
