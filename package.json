@@ -1,11 +1,13 @@
 {
   "name": "espresso-theme-ui",
   "theme": "ui",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Espresso inspired theme",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "espresso",
+    "coffee"
   ],
   "repository": "https://github.com/mattstewart32/espresso-theme-ui",
   "license": "MIT",
